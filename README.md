@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Skills
-
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nuxt,vite)](https://skillicons.dev)
+
+## bolc
+[blog](https://vite-interview.netlify.app/)
